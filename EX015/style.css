@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right, Gold, Orange);
+}
+
+main {
+    background-color: Goldenrod;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px darkorange;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: darkred;
+    background-color: darkgoldenrod;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+}
+
+h2 {
+    color: darkred;
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px black;
+}
+
+p {
+    text-align: justify;
+}
